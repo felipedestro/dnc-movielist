@@ -16,7 +16,6 @@ function Header(props) {
 			<h1>
 				<Link to={"/"}>DNC Movie List</Link>{" "}
 			</h1>
-			e
 			<form onSubmit={handleSubmit}>
 				<input type="text" placeholder="Pesquise por filmes" />
 			</form>
